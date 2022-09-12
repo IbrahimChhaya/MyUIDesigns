@@ -1,5 +1,5 @@
 # My UI Designs
-A collection of UI designs I came up with for my second- and third-year projects.
+A collection of UI designs I came up with for my second- and third-year projects using Adobe XD but have since switched to Figma.
 
 ## Arachnid Design
 <p>My university team and startup venture</p>
