@@ -2,9 +2,15 @@
 A collection of UI designs I came up with for my second- and third-year projects.
 
 ## Arachnid Design
-My university team and startup venture
-Logos
+<p>My university team and startup venture</p>
 
+[/ArachnidDesignLogos](/ArachnidDesignLogos)
+
+<p align="center">
+      <img width="100" src="/ArachnidDesignLogos/2020ADLogo.png">
+      <img width="100" src="/ArachnidDesignLogos/2021ADLogo.png">
+</p>
+      
 ## Second Year
 ### Green Pantry
 Green Pantry is a fully fledged grocery ecommerce website and winner of UJ's 2020 Projects Day under the Second Year category.
