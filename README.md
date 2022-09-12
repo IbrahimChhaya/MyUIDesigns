@@ -1,5 +1,5 @@
 # My UI Designs
-A collection of UI designs I came up with for my second- and third-year projects using Adobe XD but have since switched to Figma.
+A collection of UI designs I came up with for my second- and third-year projects using Adobe XD (I have since switched to Figma).
 
 ## Arachnid Design
 
@@ -19,7 +19,7 @@ Logos: [/ArachnidDesignLogos](/ArachnidDesignLogos)
       <img width="100" src="/GreenPantry/Logos/GP_Logo.png"
 </p>
       
-Green Pantry is a fully fledged grocery ecommerce website and winner of the University of Johannesburg's 2020 Projects Day under the Second Year category.
+Green Pantry is a fully fledged grocery ecommerce website and winner of the University of Johannesburg's 2020 Projects Day under the Second Year category. The project was developed using ASP.NET and pure HTML/CSS/JavaScript.
 
 Logos and web page designs: [/GreenPantry](/GreenPantry)
       
