@@ -1,6 +1,6 @@
 Green Pantry is a fully fledged grocery ecommerce website and winner of UJ's 2020 Projects Day under the Second Year category.
 <p align="center">
-      <img width="300" src="GreenPantry/Logos/GP_Logo.png">
+      <img width="300" src="/GreenPantry/Logos/GP_Logo.png">
 </p>
 
 #### Customer:
