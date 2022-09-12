@@ -2,18 +2,27 @@
 A collection of UI designs I came up with for my second- and third-year projects using Adobe XD but have since switched to Figma.
 
 ## Arachnid Design
-<p>My university team and startup venture</p>
-
-[/ArachnidDesignLogos](/ArachnidDesignLogos)
 
 <p align="center">
       <img width="100" src="/ArachnidDesignLogos/2020ADLogo.png">
       <img width="100" src="/ArachnidDesignLogos/2021ADLogo.png">
 </p>
+
+<p>My university team and startup venture.</p>
+
+Logos: [/ArachnidDesignLogos](/ArachnidDesignLogos)
       
 ## Second Year
 ### Green Pantry
-Green Pantry is a fully fledged grocery ecommerce website and winner of UJ's 2020 Projects Day under the Second Year category.
+
+<p align="center">
+      <img width="100" src="/GreenPantry/Logos/GP_Logo.png"
+</p>
+      
+Green Pantry is a fully fledged grocery ecommerce website and winner of the University of Johannesburg's 2020 Projects Day under the Second Year category.
+
+Logos and web page designs: [/GreenPantry](/GreenPantry)
+      
 #### Customer:
 - Account management
 - Shopping cart using local cookies
@@ -53,7 +62,7 @@ Video walkthrough: https://youtu.be/qDm2oAsoEzY
 ## Third Year
 ### cura
 cura is an app that aims to raise awareness about and provide a more holistic approach to child mental health.
-cura won second at UJ's 2021 Project's Day under the Third Year category and also won Best Website.
+cura won second at the University of Johannesburg's 2021 Project's Day under the Third Year category and also won Best Website.
 
 #### Web Dashboard
 Psychologist:
