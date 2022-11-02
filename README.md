@@ -1,6 +1,8 @@
 # My UI Designs (Repo not complete yet)
 A collection of UI designs I came up with for my second- and third-year projects using Adobe XD (I have since switched to Figma).
 
+I setup this repo so I could save all my work and to record my developments in UI design and implementation - from modifying templates to designing my own.
+
 ## Arachnid Design
 
 <p align="center">
