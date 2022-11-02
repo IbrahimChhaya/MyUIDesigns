@@ -17,6 +17,12 @@ Simple page created for Project's Day demonstration: https://ibrahimchhaya.githu
 ![Vue.JS](https://img.shields.io/badge/Vue.js-4FC08D.svg?style=for-the-badge&logo=vuedotjs&logoColor=white)
 ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-FF61F6.svg?style=for-the-badge&logo=Adobe-XD&logoColor=white)
 
+<p align="center">
+      <img width="300" src="/cura/Logos/curaMonkeyBody.png">
+</p>
+
+Logo variations: [/curaLogos](/cura/Logos)
+
 #### Web Dashboard
 Psychologist:
 - Child profile management
