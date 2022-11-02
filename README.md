@@ -3,6 +3,16 @@ A collection of UI designs I came up with for my second- and third-year projects
 
 I setup this repo so I could save all my work and to record my developments in UI design and implementation - from modifying templates to designing my own.
 
+#### Table of Contents
+[Arachnid Design](/#arachnid-design)
+
+[Arachnid Design](/#second-year)
+
+[Arachnid Design](/#third-year)
+
+[Arachnid Design](/#honours)
+
+
 ## Arachnid Design
 
 <p align="center">
