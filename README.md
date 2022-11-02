@@ -12,7 +12,7 @@ I setup this repo so I could save all my work and to record my developments in U
 
 <p>My university team and startup venture.</p>
 
-Logos: [/ArachnidDesignLogos](/ArachnidDesignLogos)
+Logo variations: [/ArachnidDesignLogos](/ArachnidDesignLogos)
       
 ## Second Year
 ### Green Pantry
