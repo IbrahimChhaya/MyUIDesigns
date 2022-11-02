@@ -12,8 +12,11 @@ Intial full page image used in our presentation and video:
 </p>
 
 We then finally came up with a name and logo:
+
 cura, a simple and easy name meaning cure, treatment, and remedy in Latin
+
 The monkey logo acted as our mascot. A fun, lovable creature to guide and assist children in using the app
+
 cura logo with full monkey:
 <p align="center">
       <img width="200" src="curaMonkeyBody.png">
