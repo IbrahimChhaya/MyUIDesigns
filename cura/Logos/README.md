@@ -22,3 +22,13 @@ cura logo with monkey head:
 <p align="center">
       <img width="200" src="curaMonkeyHead.png">
 </p>
+
+This then lead to the full page:
+<p align="center">
+      <img width="300" src="FullpageCura2.png">
+</p>
+
+And of course an update on the original:
+<p align="center">
+      <img width="300" src="FullpageCura.png">
+</p>
