@@ -2,6 +2,10 @@
 
 Green Pantry is a fully fledged grocery ecommerce website and winner of the University of Johannesburg's 2020 Projects Day under the Second Year category. The project was developed using ASP.NET and pure HTML/CSS/JavaScript.
 
+Video walkthrough: https://youtu.be/qDm2oAsoEzY
+
+
+
 ![.NET](https://img.shields.io/badge/.NET-512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white)
 ![C#](https://img.shields.io/badge/C%20Sharp-239120.svg?style=for-the-badge&logo=C-Sharp&logoColor=white)
 ![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927.svg?style=for-the-badge&logo=Microsoft-SQL-Server&logoColor=white)
@@ -57,5 +61,3 @@ Screenshots and designs: [/AdminFrontend](/GreenPantry/AdminFrontend)
 - Website settings: 
       • Change site constants such as name, minimum for free shipping and VAT
       • Update home page banners (title, caption, image and link)
-
-Video walkthrough: https://youtu.be/qDm2oAsoEzY
