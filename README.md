@@ -34,6 +34,9 @@ Green Pantry is a fully fledged grocery ecommerce website and winner of the Univ
 Logos and web page designs: [/GreenPantry](/GreenPantry)
       
 #### Customer:
+
+Screenshots and designs: [/CustomerFrontend](/GreenPantry/CustomerFrontend)
+
 - Account management
 - Shopping cart using local cookies
       • Dynamic cart update (quantity, removal, totals)
@@ -50,6 +53,9 @@ Logos and web page designs: [/GreenPantry](/GreenPantry)
 - Chatbot to assist users with details about the business and how to navigate the website
 
 #### Admin:
+
+Screenshots and designs: [/AdminFrontend](/GreenPantry/AdminFrontend)
+
 - Summary of past week statistics: Traffic, New User Registrations, Sales, Profit
 - Charts: 
       • Profit per day for the current week or month
